@@ -1,0 +1,33 @@
+body{
+    padding: 5%;
+    font-family: "Roboto Mono", sans-serif;
+}
+
+.line {
+  width: 70%;                
+  height: 5px;               
+  border-radius: 10%;        
+  background: #000;        
+}
+
+h3 {
+  color: #5CB338;
+}
+
+p{  
+    padding : 0;
+    margin : 0;
+    line-height : 25px;
+}
+strong {
+  color: #4E71FF;
+  font-size: 1.3em;
+}
+
+a, u {
+  text-decoration: none;
+}
+
+.link{
+  list-style-type: none;
+}
